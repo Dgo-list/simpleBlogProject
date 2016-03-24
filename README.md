@@ -1,0 +1,2 @@
+# smallBlogProject
+A Django blog
